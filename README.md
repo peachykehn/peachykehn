@@ -1,10 +1,9 @@
 <p align="center">
 
 &#x20; 
-  <img src="assets/monitor.gif" alt="Behold, the machine of man's downfall"><br><br>
   <img src="assets/banner.gif" alt="Welcome to Peachy's Homepage!" width="100%">
 </p>
-
+  <img src="assets/monitor.gif" alt="Behold, the machine of man's downfall"><br><br>
 <p align="center"><img src="assets/construction.gif" alt="This page is still under construction!"></p>
 
 <p align="center"><img src="assets/h\_about.gif" alt="about\_me.txt" width="100%"></p>
