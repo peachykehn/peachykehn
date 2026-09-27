@@ -34,7 +34,7 @@ A CRT television, a pixel-art sprite, and the Saturn V rocket aren't just outdat
   </tr>
   <tr>
     <td>📁 <a href="https://github.com/peachykehn/project-one"><b>project-one</b></a> <img src="assets/new.gif" alt="NEW!"></td>
-    <td>Describe your coolest physics project here</td>
+    <td>idk</td>
     <td>Under construction</td>
   </tr>
   <tr>
