@@ -1,10 +1,10 @@
 <p align="center">
 
 &#x20; 
-  <img src="assets/banner.gif" alt="Welcome to Peachy's Homepage!" width="100%">
+  align="center"><img src="assets/banner.gif" alt="Welcome to Peachy's Homepage!" width="100%">
 </p>
-  <img src="assets/monitor.gif" alt="Behold, the machine of man's downfall"><br><br>
-<p align="center"><img src="assets/construction.gif" alt="This page is still under construction!"></p>
+  align="center"><img src="assets/monitor.gif" alt="Behold, the machine of man's downfall"><br><br>
+
 
 <p align="center"><img src="assets/h\_about.gif" alt="about\_me.txt" width="100%"></p>
 
@@ -21,7 +21,7 @@ I like technology, and my love of technology is agnostic of its age, relevance, 
 A CRT television, a pixel-art sprite, and the Saturn V rocket aren't just old versions of an oled monitor, 3d graphic, or the Space Shuttle. Each one was shaped by the people who made it: their limits, their hopes, and what they thought the future would look like. These inventions in turn also affected how people thought. Newer technology gains a lot, but it usually loses something too, and what it loses usually doesn't come back. But I like to try anyway, so here's some stuff I made that blends old and new!
 
 </p>
-
+<p align="center"><img src="assets/construction.gif" alt="This page is still under construction!"></p>
 <p align="center"><img src="assets/progress.gif" alt="Loading..." width="100%"></p>
 
 <p align="center"><img src="assets/h\_projects.gif" alt="My projects" width="100%"></p>
