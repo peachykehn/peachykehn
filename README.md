@@ -59,7 +59,7 @@ A CRT television, a pixel-art sprite, and the Saturn V rocket aren't just outdat
 <a href="https://cyber.dabamos.de/88x31/index.html">Source of gifs on this page</a><br>
 <a href="https://web.archive.org/">The Wayback Machine</a><br>
 <a href="https://www.effectgames.com/demos/canvascycle/">Mark Ferrari, pixel art demo</a><br> 
-<a href="https://vimm.net/">Vimm's lair</a><br>
+<a href="https://vimm.net/">Vimm's old video game roms</a><br>
 <a href="http://www.startrekmap.com/">Star Trek Map</a><br>
 <a href="https://www.craftedbyarjun.com/home">I use this as my home page</!a>
 </p>
