@@ -72,11 +72,6 @@ A CRT television, a pixel-art sprite, and the Saturn V rocket aren't just outdat
     <td>An old Emerson TV with a cracked cathode ray tube becomes a home for shrimps.</td>
     <td>Archived to floppy</td>
   </tr>
-  <tr>
-    <td>📁 <a href="https://github.com/peachykehn/project-three"><b>project-three</b></a></td>
-    <td>Something retro: CRTs, pixels, rockets...</td>
-    <td>Archived to floppy</td>
-  </tr>
 </table>
 
 </div>
