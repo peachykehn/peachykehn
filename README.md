@@ -12,11 +12,11 @@
 
 <b>You have somehow found my github repository. Welcome.<img src="assets/monitor.gif" alt="Behold, the machine of man's downfall"><br><br>
 
-My love of technology is agnostic of its age, relevance, effectiveness, or societal value. Some think of technology as a ladder, where the new replaces the old, as a strict upgrade. I don't think it works that way!<br><br>
+My love of technology is agnostic of its age, relevance, effectiveness, or societal value. Some think of technology as a ladder, where the new inherently replaces the old. I don't think it works that way!<br><br>
 
 
 
-A CRT television, a pixel-art sprite, and the Saturn V rocket aren't just old versions of an oled monitor, 3d graphic, or the Space Shuttle. Each one was shaped by the people who made it: their limits, their hopes, and what they thought the future would look like. These inventions in turn also affected how people thought. Newer technology gains a lot, but it usually loses something too, and what it loses usually doesn't come back. But I like to try anyway, so here's some stuff I made that blends old and new!
+A CRT television, a pixel-art sprite, and the Saturn V rocket aren't just outdated ancestors of an oled monitor, 3d graphic, or the Space Shuttle. Each one was shaped by their inventors: their limits, their hopes, and what they thought their future would look like. These inventions in turn also affected how people thought. Newer technology gains a lot, but it usually loses something too, and what it loses usually doesn't come back. But I like to try anyway, so here's some stuff I made that blends old and new!
 
 </p>
 <p align="center"><img src="assets/construction.gif" alt="This page is still under construction!"></p>
