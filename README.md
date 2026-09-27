@@ -59,8 +59,8 @@ A CRT television, a pixel-art sprite, and the Saturn V rocket aren't just outdat
 <a href="https://www.spacejam.com/1996/">Space Jam (1996) \&mdash; still online!</a><br>
 <a href="https://web.archive.org/">The Wayback Machine</a><br>
 <a href="https://vimm.net/">Vimm's lair</a><br>
-<a href="https://www.nasa.gov/history/">NASA History</a>
-<a href="https://www.craftedbyarjun.com/home">Crafted By Arjun</a>
+<a href="http://www.startrekmap.com/">Star Trek Map</a><br>
+<a href="https://www.craftedbyarjun.com/home">I use this as my home page</!a>
 </p>
 
 <p align="center"><img src="assets/hr.gif" width="100%"></p>
