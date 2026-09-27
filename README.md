@@ -1,7 +1,7 @@
 <p align="center">
 
 &#x20; 
-  <img src="assets/btn\\monitor.gif" alt="Behold, the machine of man's downfall"><br><br>
+  <img src="assets/monitor.gif" alt="Behold, the machine of man's downfall"><br><br>
   <img src="assets/banner.gif" alt="Welcome to Peachy's Homepage!" width="100%">
 </p>
 
