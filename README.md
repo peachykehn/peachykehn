@@ -33,14 +33,44 @@ A CRT television, a pixel-art sprite, and the Saturn V rocket aren't just outdat
     <th>Status</th>
   </tr>
   <tr>
-    <td>📁 <a href="https://github.com/peachykehn/project-one"><b>project-one</b></a> <img src="assets/new.gif" alt="NEW!"></td>
-    <td>idk</td>
+    <td>📁 <a href="https://github.com/peachykehn/Cycling-Classic-Scifi-art-frame"><b>E-ink Classic Scifi art frame</b></a> <img src="assets/new.gif" alt="NEW!"></td>
+    <td>Framed e-ink screen that cycles classic sci-fi book covers from my library</td>
     <td>Under construction</td>
   </tr>
   <tr>
-    <td>📁 <a href="https://github.com/peachykehn/project-two"><b>project-two</b></a></td>
-    <td>An electronics build with way too many LEDs</td>
-    <td>Works (mostly)</td>
+    <td>📁 <a href="https://github.com/peachykehn/blob"><b>blob</b></a></td>
+    <td>A speaker is a magnet, so I got a big speaker solenoid and put it behind some ferrofluid to make it dance.</td>
+    <td>Works (mostly) v1.0</td>
+  </tr>
+  <tr>
+    <td>📁 <a href="https://github.com/peachykehn/Art_deco_furnace_clock"><b>Nixie tube furnace clock</b></a></td>
+    <td>Nixie tube clock tucked away in an old brass piano lamp</td>
+    <td>Archived to floppy</td>
+  </tr>
+  <tr>
+    <td>📁 <a href="https://github.com/peachykehn/Holographic_cube"><b>Holographic cube</b></a></td>
+    <td>45 degree angled etched glass can make a pseudo-holographic effect.</td>
+    <td>Archived to floppy</td>
+  </tr>
+  <tr>
+    <td>📁 <a href="https://github.com/peachykehn/speedh"><b>speedh</b></a></td>
+    <td>Four way chess clock for four player board/card games with long turns, such as risk, elder dragon highlander, etc.</td>
+    <td>Archived to floppy</td>
+  </tr>
+  <tr>
+    <td>📁 <a href="https://github.com/peachykehn/Judges_tower"><b>Judge's tower</b></a></td>
+    <td>A three-strikes counter for up to four players for judge's tower or any other strike based game.</td>
+    <td>Archived to floppy</td>
+  </tr>
+  <tr>
+    <td>📁 <a href="https://github.com/peachykehn/Restoration-of-PCB-for-F1XD-keyboard-1"><b>Restoration of Sony HitBit F1XD keyboard</b></a></td>
+    <td>PCB for F1XD keyboard. This BASIC computer had a fried keyboard and a cracked base so I made a new one. </td>
+    <td>Archived to floppy</td>
+  </tr>
+  <tr>
+    <td>📁 <a href="https://github.com/peachykehn/shrilmp-tv"><b>shrilmp tv</b></a></td>
+    <td>An old Emerson TV with a cracked cathode ray tube becomes a home for shrimps.</td>
+    <td>Archived to floppy</td>
   </tr>
   <tr>
     <td>📁 <a href="https://github.com/peachykehn/project-three"><b>project-three</b></a></td>
