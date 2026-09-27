@@ -67,12 +67,6 @@ A CRT television, a pixel-art sprite, and the Saturn V rocket aren't just old ve
 <p align="center"><img src="assets/h\_webring.gif" alt="Retro tech webring" width="100%"></p>
 
 <p align="center">
-\[ <a href="https://github.com/topics/retrocomputing">\&lt;\&lt; Prev</a>
-| <a href="https://github.com/topics/electronics">Random</a>
-| <a href="https://github.com/topics/physics">Next \&gt;\&gt;</a> ]
-</p>
-
-<p align="center">
   <img src="assets/btn\_anybrowser.gif" alt="Best viewed with any browser">
   <img src="assets/btn\_magic.gif" alt="the gathering?">
   <img src="assets/btn\_volta.gif" alt="Neuromancer">
