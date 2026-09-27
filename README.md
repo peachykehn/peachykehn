@@ -1,9 +1,9 @@
 <p align="center">
 
 &#x20; 
-  align="center"><img src="assets/banner.gif" alt="Welcome to Peachy's Homepage!" width="100%">
+<p align="center"><img src="assets/banner.gif" alt="Welcome to Peachy's Homepage!" width="100%">
 </p>
-  align="center"><img src="assets/monitor.gif" alt="Behold, the machine of man's downfall"><br><br>
+
 
 
 <p align="center"><img src="assets/h\_about.gif" alt="about\_me.txt" width="100%"></p>
@@ -11,8 +11,7 @@
 <p align="center">
 
 <b>You have somehow found my github repository. Welcome.<br><br>
-
-
+<p align="center">"><img src="assets/monitor.gif" alt="Behold, the machine of man's downfall"><br><br>
 
 I like technology, and my love of technology is agnostic of its age, relevance, effectiveness, or societal value. People think of technology as a ladder, where the new replaces the old, as a strict upgrade. I don't think it works that way!<br><br>
 
