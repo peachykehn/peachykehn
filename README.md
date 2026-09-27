@@ -16,7 +16,7 @@ My love of technology is agnostic of its age, relevance, effectiveness, or socie
 
 
 
-A CRT television, a pixel-art sprite, and the Saturn V rocket aren't just outdated ancestors of an oled monitor, 3d graphic, or the Space Shuttle. Each one was shaped by their inventors: their limits, their hopes, and what they thought their future would look like. These inventions in turn also affected how people thought. Newer technology gains a lot, but it usually loses something too, and what it loses usually doesn't come back. But I like to try anyway, so here's some stuff I made that blends old and new!
+A CRT television, a pixel-art sprite, and the Saturn V rocket aren't just outdated versions of the oled monitor, 3d graphic, or the Space Shuttle. Each one was shaped by their inventors: their limits, their hopes, and what they thought their future would look like. These inventions in turn also affected how people thought. Newer technology gains a lot, but it usually loses something too, and what it loses usually doesn't come back. But I like to try anyway, so here's some stuff I made that blends old and new!
 
 </p>
 <p align="center"><img src="assets/construction.gif" alt="This page is still under construction!"></p>
