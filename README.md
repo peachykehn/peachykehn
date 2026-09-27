@@ -6,7 +6,7 @@
 
 
 
-<p align="center"><img src="assets/h\_about.gif" alt="about\_me.txt" width="100%"></p>
+<p align="center"><img src="assets/about.gif" alt="about\_me.txt" width="100%"></p>
 
 <p align="center">
 
@@ -22,7 +22,7 @@ A CRT television, a pixel-art sprite, and the Saturn V rocket aren't just old ve
 <p align="center"><img src="assets/construction.gif" alt="This page is still under construction!"></p>
 <p align="center"><img src="assets/progress.gif" alt="Loading..." width="100%"></p>
 
-<p align="center"><img src="assets/h\_projects.gif" alt="My projects" width="100%"></p>
+<p align="center"><img src="assets/projects.gif" alt="My projects" width="100%"></p>
 
 <div align="center">
 
@@ -53,7 +53,7 @@ A CRT television, a pixel-art sprite, and the Saturn V rocket aren't just old ve
 
 <p align="center"><img src="assets/hr.gif" width="100%"></p>
 
-<p align="center"><img src="assets/h\_links.gif" alt="Cool links" width="100%"></p>
+<p align="center"><img src="assets/links.gif" alt="Cool links" width="100%"></p>
 
 <p align="center">
 <a href="https://www.spacejam.com/1996/">Space Jam (1996) \&mdash; still online!</a><br>
