@@ -12,7 +12,7 @@
 
 <b>You have somehow found my github repository. Welcome.<img src="assets/monitor.gif" alt="Behold, the machine of man's downfall"><br><br>
 
-My love of technology is agnostic of its age, relevance, effectiveness, or societal value. People think of technology as a ladder, where the new replaces the old, as a strict upgrade. I don't think it works that way!<br><br>
+My love of technology is agnostic of its age, relevance, effectiveness, or societal value. Some think of technology as a ladder, where the new replaces the old, as a strict upgrade. I don't think it works that way!<br><br>
 
 
 
