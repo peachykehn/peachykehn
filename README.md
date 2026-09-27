@@ -56,7 +56,7 @@ A CRT television, a pixel-art sprite, and the Saturn V rocket aren't just outdat
 <p align="center"><img src="assets/links.gif" alt="Cool links" width="100%"></p>
 
 <p align="center">
-<a href="https://www.spacejam.com/1996/">Space Jam (1996) \&mdash; still online!</a><br>
+<a href="https://cyber.dabamos.de/88x31/index.html">Source of gifs on this page</a><br>
 <a href="https://web.archive.org/">The Wayback Machine</a><br>
 <a href="https://vimm.net/">Vimm's lair</a><br>
 <a href="http://www.startrekmap.com/">Star Trek Map</a><br>
