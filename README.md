@@ -35,7 +35,7 @@ A CRT television, a pixel-art sprite, and the Saturn V rocket aren't just outdat
     <td>Under construction</td>
   </tr>
   <tr>
-    <td><img src="assets/icon_nixie.gif" alt="" align="left">&nbsp;<a href="https://github.com/peachykehn/blob"><b>blob</b></a></td>
+    <td><img src="assets/icon_blob.gif" alt="" align="left">&nbsp;<a href="https://github.com/peachykehn/blob"><b>blob</b></a></td>
     <td>A speaker is a magnet, so I got a big speaker solenoid and put it behind some ferrofluid to make it dance.</td>
     <td>Works (mostly) v1.0</td>
   </tr>
