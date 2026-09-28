@@ -107,6 +107,6 @@ A CRT television, a pixel-art sprite, and the Saturn V rocket aren't just outdat
 <p align="center"><img src="assets/taskbar.gif" alt="Start" width="100%"></p>
 
 <p align="center"><sub>
-\&copy; 1993\&ndash;2026 Peachy \&bull; Created on a Sony Fitbit HB-F1XD
+\&copy; 1993\&ndash;2026 Peachy \&bull; Created on a Sony HitBit HB-F1XD
 </sub></p>
 
